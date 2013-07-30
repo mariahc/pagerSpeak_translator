@@ -4,7 +4,6 @@ $(document).ready(function(){
   
   var lookupTable = {
   'i love you' : '143',
-  'fuck you' : '43',
   'hello' : '07734',
   'a' : '4',
   'b' : '8',
