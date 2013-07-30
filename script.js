@@ -1,5 +1,3 @@
-//jquery equilivelent of window onload
-//$ is short for jQuery
 $(document).ready(function(){
   
   var lookupTable = {
